@@ -1,0 +1,7 @@
+FastAPI
+Pydantic
+google-generativeai
+python-dotenv
+requests
+streamlit
+uvicorn
